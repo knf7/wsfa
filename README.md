@@ -1,0 +1,1 @@
+# وصفة — Frontend App\n\nواجهة Native مبنية بـ Expo وReact Native لتجربة تطبيق وصفة العربي.\n\n## التشغيل\n\nتحتاج إلى Node.js وpnpm، ثم شغّل pnpm install وبعدها pnpm run dev.\n\nهذا الإصدار Front-end تجريبي فقط ويستخدم بيانات محلية. ربط الـ API والـ backend يأتي لاحقاً.
